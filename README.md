@@ -67,7 +67,7 @@ I still need to measure the actual CPU usage and timing on the Teensy while runn
 
 ## Files
 
-`pulseshield_teensy_v6_telemetry.ino` contains the current v6 Teensy implementation.
+`pulseshield_teensy_v6_.ino` contains the current v6 Teensy implementation.
 
 The `graphs_v6` folder contains plots from the simulations, and the audio folder contains a before/after example.
 
