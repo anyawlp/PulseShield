@@ -69,7 +69,7 @@ I still need to measure the actual CPU usage and timing on the Teensy while runn
 
 `pulseshield_teensy_v6_.ino` contains the current v6 Teensy implementation.
 
-The `graphs_v6` folder contains plots from the simulations, and the audio folder contains a before/after example.
+The `1_waveform_raw_vs_processed.png', '2_rms_envelope_and_onset_detection.png', and the '3_dynamic_gain_curve.png' files contain plots from the simulations, and the audio folder contains a before/after example.
 
 ## A note on the project
 
